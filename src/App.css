@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.form-label1{
+  margin-top: 20px;
+}
+
+.form-control1{
+  width: 80vw;
+}
+
+.form1control2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btnforupper{
+  margin-top: 10px;
+}
